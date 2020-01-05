@@ -1,5 +1,5 @@
 # python
-  *[个人总结]（https://gitee.com/XiongXiongHandsome/Python_final/blob/master/%E5%AD%A6%E4%B9%A0PYTHON%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A.md）
+  * [个人总结]（https://gitee.com/XiongXiongHandsome/Python_final/blob/master/%E5%AD%A6%E4%B9%A0PYTHON%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A.md）
 
 ## python期末项目
 
